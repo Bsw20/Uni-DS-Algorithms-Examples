@@ -1,2 +1,2 @@
 # DS-Algorithms
-Algorithms and DS HSE 2020 Course (c++)
+Algorithms and DS scripts during HSE SE Education (c++, c#...)
