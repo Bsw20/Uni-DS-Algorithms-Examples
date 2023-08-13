@@ -1,2 +1,2 @@
 # DS-Algorithms
-Изучение алгоритмов и структур данных
+Algorithms and DS HSE 2020 Course (c++)
