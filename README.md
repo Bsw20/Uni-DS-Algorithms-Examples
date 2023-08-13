@@ -1,2 +1,2 @@
 # DS-Algorithms
-Algorithms and DS scripts during HSE SE Education (c++, c#...)
+Operating systems, algorithms and DS scripts during HSE SE Education (c++, c, c#...)
