@@ -1,2 +1,2 @@
 # DS-Algorithms
-Operating systems, data science, algorithms and DS scripts during HSE SE Education (c++, c, c#, python...)
+Studying operating systems, data science, algorithms, Swarm AI, and other subjects during my education at HSE SE, including programming languages such as C++, C, C#, Python, Swift, F# and other programming languages.
